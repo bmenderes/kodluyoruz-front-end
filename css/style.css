@@ -38,6 +38,14 @@ h3 {
 a {
     padding: 30px;
     font-size: 20px;
+    color: aqua;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: blue;
+    border-radius: 10px;
 
 }
 
@@ -55,4 +63,12 @@ ol {
 
 img {
     margin: 10px;
+}
+
+a:hover {
+    color: orange;
+}
+
+.container>p.intro+ul>li:first-child {
+    color: orange;
 }
