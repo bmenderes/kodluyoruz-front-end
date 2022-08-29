@@ -1,0 +1,36 @@
+.container-main{
+    margin:auto;
+    text-align:center;
+    width:90%;
+}
+
+.container-search{
+   
+    background-color: #EEEEEE;
+    height: 80px;
+}
+.card-links-1 {
+    background-color: #7EE5DA;
+    width: 36%;
+    height: 100px;
+    float: left;   
+    margin-right: 2px;
+  
+}
+
+.card-links-2 {
+    background-color: #70CCC2;
+    width: 20%;
+    height: 100px;
+    float: left;   
+    margin-right: 2px; 
+   
+}
+
+.card-links-3 {
+    background-color: #62B3AA;
+    width: 43.6%;
+    height: 100px;
+    float: left;
+   
+}
